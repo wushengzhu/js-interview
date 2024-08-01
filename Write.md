@@ -4,4 +4,3 @@
 ## 4 typeof null ？
 ## 5 NaN == (NaN|null|undefine)？
 ## 6 +0===-0？
-## 7 
