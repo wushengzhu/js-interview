@@ -42,6 +42,7 @@ Collection of JavaScript Interview Questions.
 - 26 如何判断一个函数是普通函数还是构造函数
 - 27 typeof 运算符是如何工作的
 - 28 如何在JS中清空数组
+- 29 什么是回调地狱以及如何避免它
 ## JS业务-Business.md
 - 1 实现事件处理器EventEmitter
 - 2 编写函数，将data数组中所有对象按照value从小到大排列，不能使用sort函数
@@ -51,7 +52,7 @@ Collection of JavaScript Interview Questions.
 - 6 数组柯里化
 - 7 防抖与节流
 - 8 图片懒加载
-- 9 滚动加载
+- 9 如何实现无限滚动加载内容
 - 10 渲染几万条数据不卡住页面
 - 11 打印出当前网页使用了多少种HTML元素
 - 12 虚拟DOM转化为真实DOM结构
@@ -64,3 +65,11 @@ Collection of JavaScript Interview Questions.
 - 19 怎么查找一篇英文文章中出现频率最高的单词
 - 20 vdom真的很快吗
 - 21 移动端h5有300毫秒延迟，该如何解决
+- 22 如何实现一个用户注册表单的前端验证
+- 23 描述如何使用正则表达式来验证邮箱地址
+- 24 如何实现一个响应式的下拉菜单
+- 25 解释如何使用Javascript来创建图表或数据可视化
+- 26 如何使用JavaScript来检测用户的设备
+- 27 如何实现用户登录和权限控制
+- 28 描述polyfill的作用和使用场景
+- 29 解释如何在JavaScript中实现优惠劵和折扣逻辑
